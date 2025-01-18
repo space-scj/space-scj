@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @space-scj
 - 👀 I’m interested in Data science and software application development
-- 🌱 I’m currently learning to SQLITE better and aggregate better data for analysis.
+- 🌱 I’m currently learning SQLITE better and to aggregate better data for analysis.
 - 💞️ I’m looking to collaborate on any project for data aggregation and analysis.
 - 📫 How to reach me:
 - Stevencjoyner91@gmail.com
